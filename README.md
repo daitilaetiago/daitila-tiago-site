@@ -9,6 +9,7 @@ A chave já está configurada no `index.html`:
 ```js
 const CONFIG = {
   pixKey: '22992001140',
+  pixQrKey: '+5522992001140',
   pixName: 'Daitila',
   pixCity: 'SAO PAULO'
 };
