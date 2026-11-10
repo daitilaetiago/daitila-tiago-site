@@ -15,7 +15,7 @@ const CONFIG = {
 };
 ```
 
-O QR Code é montado com payload Pix e exibido no destaque do site e no modal de cada presente.
+O QR Code oficial enviado pela Caixa está salvo em `pix-qr-caixa.png` e é exibido no destaque do site e no modal de cada presente. A chave visível permanece `22992001140`.
 
 ## Administração
 
