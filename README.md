@@ -33,7 +33,7 @@ A área permite pesquisar, filtrar e exportar CSV. Como esta é uma versão est�
 4. Implante como aplicativo da Web, executando como você e com acesso para qualquer pessoa.
 5. Copie a URL publicada para `CONFIG.googleAppsScriptUrl` no `index.html`.
 
-Sem a URL do Apps Script, o site continua funcionando localmente e registra os dados no navegador.
+A URL do Apps Script já está configurada no `index.html`. Os registros continuam sendo salvos localmente e também são enviados à planilha quando o convidado confirma o presente.
 
 ## Publicação
 
