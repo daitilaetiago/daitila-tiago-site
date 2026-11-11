@@ -8,14 +8,14 @@ A chave já está configurada no `index.html`:
 
 ```js
 const CONFIG = {
-  pixKey: '22992001140',
-  pixQrKey: '+5522992001140',
+  pixKey: '14690804788',
+  pixQrKey: '14690804788',
   pixName: 'Daitila',
   pixCity: 'SAO PAULO'
 };
 ```
 
-O QR Code oficial enviado pela Caixa está salvo em `pix-qr-caixa.png` e é exibido no destaque do site e no modal de cada presente. A chave visível permanece `22992001140`.
+O QR Code oficial enviado pela Caixa está salvo em `pix-qr-caixa.png` e é exibido no destaque do site e no modal de cada presente. A chave visível permanece `14690804788`. O QR Code da Caixa permanece o arquivo enviado anteriormente.
 
 ## Administração
 
